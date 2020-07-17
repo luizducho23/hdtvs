@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BR: GLOBO AMAZONAS SD">
+    <display-name lang="pt">BR: GLOBO AMAZONAS SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO ANHANGUERA GOIANIA SD">
+    <display-name lang="pt">BR: GLOBO ANHANGUERA GOIANIA SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO BRASILIA SD">
+    <display-name lang="pt">BR: GLOBO BRASILIA SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO CUIABA SD">
+    <display-name lang="pt">BR: GLOBO CUIABA SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BR: GLOBO EPTV CAMPINAS HD">
+    <display-name lang="pt">BR: GLOBO EPTV CAMPINAS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO EPTV CAMPINAS SD">
+    <display-name lang="pt">BR: GLOBO EPTV CAMPINAS SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO INTERNACIONAL SD">
+    <display-name lang="pt">BR: GLOBO INTERNACIONAL SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: GLOBO MINAS HD">
+    <display-name lang="pt">BR: GLOBO MINAS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO MINAS SD">
+    <display-name lang="pt">BR: GLOBO MINAS SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO NORDESTE HD">
+    <display-name lang="pt">BR: GLOBO NORDESTE HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO NORDESTE SD">
+    <display-name lang="pt">BR: GLOBO NORDESTE SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RIBEIR PRETO SD">
+    <display-name lang="pt">BR: GLOBO RIBEIR PRETO SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RIO GRANDE DO NORTE SD">
+    <display-name lang="pt">BR: GLOBO RIO GRANDE DO NORTE SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RJ HD">
+    <display-name lang="pt">BR: GLOBO RJ HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RJ SD">
+    <display-name lang="pt">BR: GLOBO RJ SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RPC TV HD">
+    <display-name lang="pt">BR: GLOBO RPC TV HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO RPC TV SD">
+    <display-name lang="pt">BR: GLOBO RPC TV SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO SP HD">
+    <display-name lang="pt">BR: GLOBO SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO SP SD">
+    <display-name lang="pt">BR: GLOBO SP SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: GLOBO TV BAHIA SD">
+    <display-name lang="pt">BR: GLOBO TV BAHIA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: PREMIERE CLUBES HD">
+    <display-name lang="pt">BR: PREMIERE CLUBES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: PREMIERE CLUBES SD">
+    <display-name lang="pt">BR: PREMIERE CLUBES SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: PREMIERE 2 HD">
+    <display-name lang="pt">BR: PREMIERE 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 2 SD">
+    <display-name lang="pt">BR: PREMIERE 2 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 3 HD">
+    <display-name lang="pt">BR: PREMIERE 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 3 SD">
+    <display-name lang="pt">BR: PREMIERE 3 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 4 HD">
+    <display-name lang="pt">BR: PREMIERE 4 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 4 SD">
+    <display-name lang="pt">BR: PREMIERE 4 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 5 HD">
+    <display-name lang="pt">BR: PREMIERE 5 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 5 SD">
+    <display-name lang="pt">BR: PREMIERE 5 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 6 SD">
+    <display-name lang="pt">BR: PREMIERE 6 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: PREMIERE 7 SD">
+    <display-name lang="pt">BR: PREMIERE 7 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: BAND SPORTS HD">
+    <display-name lang="pt">BR: BAND SPORTS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: BAND SPORTS SD">
+    <display-name lang="pt">BR: BAND SPORTS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR: COMBATE HD">
+    <display-name lang="pt">BR: COMBATE HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: COMBATE SD">
+    <display-name lang="pt">BR: COMBATE SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV 2 HD">
+    <display-name lang="pt">BR: SPORTV 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV 2 SD">
+    <display-name lang="pt">BR: SPORTV 2 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV 3 HD">
+    <display-name lang="pt">BR: SPORTV 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV 3 SD">
+    <display-name lang="pt">BR: SPORTV 3 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV HD">
+    <display-name lang="pt">BR: SPORTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: SPORTV SD">
+    <display-name lang="pt">BR: SPORTV SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: FOX SPORTS 2 HD">
+    <display-name lang="pt">BR: FOX SPORTS 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: FOX SPORTS 2 SD">
+    <display-name lang="pt">BR: FOX SPORTS 2 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: FOX SPORTS HD">
+    <display-name lang="pt">BR: FOX SPORTS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: FOX SPORTS SD">
+    <display-name lang="pt">BR: FOX SPORTS SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: ESPN  HD">
+    <display-name lang="pt">BR: ESPN  HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: ESPN  SD">
+    <display-name lang="pt">BR: ESPN  SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BR: ESPN 2 HD">
+    <display-name lang="pt">BR: ESPN 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BR: ESPN 2 SD">
+    <display-name lang="pt">BR: ESPN 2 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200717000000 -0300" stop="20200717060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717060000 -0300" stop="20200717120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717120000 -0300" stop="20200717180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717180000 -0300" stop="20200718000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718000000 -0300" stop="20200718060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718060000 -0300" stop="20200718120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718120000 -0300" stop="20200718180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718180000 -0300" stop="20200719000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719000000 -0300" stop="20200719060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719060000 -0300" stop="20200719120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719120000 -0300" stop="20200719180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719180000 -0300" stop="20200720000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720000000 -0300" stop="20200720060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720060000 -0300" stop="20200720120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720120000 -0300" stop="20200720180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720180000 -0300" stop="20200721000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721000000 -0300" stop="20200721060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721060000 -0300" stop="20200721120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721180000 -0300" stop="20200722000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722000000 -0300" stop="20200722060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722060000 -0300" stop="20200722120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722120000 -0300" stop="20200722180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722180000 -0300" stop="20200723000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723000000 -0300" stop="20200723060000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723060000 -0300" stop="20200723120000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723120000 -0300" stop="20200723180000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723180000 -0300" stop="20200724000000 -0300" channel="BR: PREMIERE 2 HD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717000000 -0300" stop="20200717060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717060000 -0300" stop="20200717120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717120000 -0300" stop="20200717180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200717180000 -0300" stop="20200718000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718000000 -0300" stop="20200718060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718060000 -0300" stop="20200718120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718120000 -0300" stop="20200718180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200718180000 -0300" stop="20200719000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719000000 -0300" stop="20200719060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719060000 -0300" stop="20200719120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719120000 -0300" stop="20200719180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200719180000 -0300" stop="20200720000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720000000 -0300" stop="20200720060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720060000 -0300" stop="20200720120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720120000 -0300" stop="20200720180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200720180000 -0300" stop="20200721000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721000000 -0300" stop="20200721060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721060000 -0300" stop="20200721120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200721180000 -0300" stop="20200722000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722000000 -0300" stop="20200722060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722060000 -0300" stop="20200722120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722120000 -0300" stop="20200722180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200722180000 -0300" stop="20200723000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723000000 -0300" stop="20200723060000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723060000 -0300" stop="20200723120000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723120000 -0300" stop="20200723180000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+  <programme start="20200723180000 -0300" stop="20200724000000 -0300" channel="BR: PREMIERE 2 SD">
+    <title lang="pt">Comunicado importante Premiere</title>
+  </programme>
+</tv>
